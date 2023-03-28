@@ -1,4 +1,4 @@
-let number = Math.floor(Math.random() * 50 + 1);
+let number = Math.floor(Math.random() * 10 + 1);
 let guessCount = 0;
 
 document.getElementById("guessBtn").onclick = function () {
